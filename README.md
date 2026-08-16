@@ -1,0 +1,1 @@
+# bst-geometric-progrection-and-kth-smallest-term
